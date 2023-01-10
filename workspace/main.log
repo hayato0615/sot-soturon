@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  8 JAN 2023 00:33
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  10 JAN 2023 20:30
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1140,192 +1140,184 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 <./figures/undoukai2.jpg, id=114, 361.35pt x 252.945pt>
 File: ./figures/undoukai2.jpg Graphic file (type jpg)
 <use ./figures/undoukai2.jpg>
-Package luatex.def Info: ./figures/undoukai2.jpg  used on input line 67.
+Package luatex.def Info: ./figures/undoukai2.jpg  used on input line 77.
 (luatex.def)             Requested size: 284.52756pt x 199.17207pt.
 (load cache: extra_lmroman9-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 69.
+(Font)              scaled to size 8.32242pt on input line 79.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 69.
+(Font)              scaled to size 8.32242pt on input line 79.
  [2<./figures/undoukai2.jpg>]
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 83.
+(Font)              scaled to size 11.09656pt on input line 95.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 83.
+(Font)              scaled to size 11.09656pt on input line 95.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 11.09656pt on input line 83.
+(Font)              scaled to size 11.09656pt on input line 95.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 11.09656pt on input line 83.
- [3] [4]
-warning  (file figures/dentoukougei.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
-<figures/dentoukougei.pdf, id=142, 279.05684pt x 232.38007pt>
-File: figures/dentoukougei.pdf Graphic file (type pdf)
-<use figures/dentoukougei.pdf>
-Package luatex.def Info: figures/dentoukougei.pdf  used on input line 137.
-(luatex.def)             Requested size: 284.52756pt x 236.9536pt.
-<figures/kigagami.pdf, id=146, 586.84505pt x 222.01424pt>
-File: figures/kigagami.pdf Graphic file (type pdf)
-<use figures/kigagami.pdf>
-Package luatex.def Info: figures/kigagami.pdf  used on input line 149.
-(luatex.def)             Requested size: 284.52756pt x 107.64627pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5<./figures/dentoukougei.pdf>](load cache: extra_lmroman7-regular.luc)
+(Font)              scaled to size 11.09656pt on input line 95.
+(load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 168.
+(Font)              scaled to size 6.47299pt on input line 115.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 168.
+(Font)              scaled to size 7.3977pt on input line 115.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 168.
-LaTeX Font Info:    Calculating math sizes for size <9.59998> on input line 168.
+(Font)              scaled to size 7.3977pt on input line 115.
+LaTeX Font Info:    Calculating math sizes for size <9.59998> on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 168.
+(Font)              scaled to size 8.00085pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.60056pt on input line 168.
+(Font)              scaled to size 5.60056pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.00043pt on input line 168.
+(Font)              scaled to size 4.00043pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 168.
+(Font)              scaled to size 7.99915pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.59935pt on input line 168.
+(Font)              scaled to size 5.59935pt on input line 115.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 3.99957pt on input line 168.
+(Font)              scaled to size 3.99957pt on input line 115.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 168.
+(Font)              scaled to size 5.17834pt on input line 115.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 3.69885pt on input line 168.
+(Font)              scaled to size 3.69885pt on input line 115.
 (load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 168.
-<figures/mai.jpg, id=162, 361.35pt x 253.4268pt>
+(Font)              scaled to size 5.17834pt on input line 115.
+ [3] [4]
+<figures/kigagami.pdf, id=154, 586.84505pt x 222.01424pt>
+File: figures/kigagami.pdf Graphic file (type pdf)
+<use figures/kigagami.pdf>
+Package luatex.def Info: figures/kigagami.pdf  used on input line 189.
+(luatex.def)             Requested size: 284.52756pt x 107.64627pt.
+ [5<./figures/kigagami.pdf>]
+<figures/mai.jpg, id=262, 361.35pt x 253.4268pt>
 File: figures/mai.jpg Graphic file (type jpg)
 <use figures/mai.jpg>
-Package luatex.def Info: figures/mai.jpg  used on input line 174.
+Package luatex.def Info: figures/mai.jpg  used on input line 216.
 (luatex.def)             Requested size: 284.52756pt x 199.55145pt.
- [6<./figures/kigagami.pdf><./figures/mai.jpg>]
-<figures/hozonkaikazu.pdf, id=271, 582.66661pt x 393.72542pt>
+ [6<./figures/mai.jpg>]
+<figures/hozonkaikazu.pdf, id=275, 582.66661pt x 393.72542pt>
 File: figures/hozonkaikazu.pdf Graphic file (type pdf)
 <use figures/hozonkaikazu.pdf>
-Package luatex.def Info: figures/hozonkaikazu.pdf  used on input line 208.
+Package luatex.def Info: figures/hozonkaikazu.pdf  used on input line 251.
 (luatex.def)             Requested size: 284.52756pt x 192.26628pt.
  [7<./figures/hozonkaikazu.pdf>] [8]
-<figures/top.png, id=380, 759.21536pt x 344.61378pt>
+<figures/top.png, id=382, 759.21536pt x 344.61378pt>
 File: figures/top.png Graphic file (type png)
 <use figures/top.png>
-Package luatex.def Info: figures/top.png  used on input line 259.
+Package luatex.def Info: figures/top.png  used on input line 300.
 (luatex.def)             Requested size: 284.52756pt x 129.15097pt.
  [9<./figures/top.png>]
-<figures/kihontop.png, id=391, 792.68779pt x 356.02484pt>
+<figures/kihontop.png, id=393, 792.68779pt x 356.02484pt>
 File: figures/kihontop.png Graphic file (type png)
 <use figures/kihontop.png>
-Package luatex.def Info: figures/kihontop.png  used on input line 271.
+Package luatex.def Info: figures/kihontop.png  used on input line 312.
 (luatex.def)             Requested size: 284.52756pt x 127.79399pt.
-<figures/kihon2.png, id=394, 786.6019pt x 462.528pt>
+<figures/kihon2.png, id=396, 786.6019pt x 462.528pt>
 File: figures/kihon2.png Graphic file (type png)
 <use figures/kihon2.png>
-Package luatex.def Info: figures/kihon2.png  used on input line 282.
+Package luatex.def Info: figures/kihon2.png  used on input line 323.
 (luatex.def)             Requested size: 284.52756pt x 167.3004pt.
-<figures/dewatop.png, id=397, 772.90863pt x 464.04947pt>
+<figures/dewatop.png, id=399, 772.90863pt x 464.04947pt>
 File: figures/dewatop.png Graphic file (type png)
 <use figures/dewatop.png>
-Package luatex.def Info: figures/dewatop.png  used on input line 295.
+Package luatex.def Info: figures/dewatop.png  used on input line 336.
 (luatex.def)             Requested size: 284.52756pt x 170.82466pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/dewa2.png, id=400, 798.77368pt x 397.10463pt>
+<figures/dewa2.png, id=402, 798.77368pt x 397.10463pt>
 File: figures/dewa2.png Graphic file (type png)
 <use figures/dewa2.png>
-Package luatex.def Info: figures/dewa2.png  used on input line 306.
+Package luatex.def Info: figures/dewa2.png  used on input line 347.
 (luatex.def)             Requested size: 284.52756pt x 141.44878pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10<./figures/kihontop.png><./figures/kihon2.png>]
-<figures/dewa3.png, id=417, 788.88411pt x 465.57095pt>
+<figures/dewa3.png, id=419, 788.88411pt x 465.57095pt>
 File: figures/dewa3.png Graphic file (type png)
 <use figures/dewa3.png>
-Package luatex.def Info: figures/dewa3.png  used on input line 319.
+Package luatex.def Info: figures/dewa3.png  used on input line 360.
 (luatex.def)             Requested size: 284.52756pt x 167.91798pt.
  [11<./figures/dewatop.png><./figures/dewa2.png><./figures/dewa3.png>]
-<figures/anket/an2.pdf, id=431, 885.70876pt x 230.93552pt>
+<figures/anket/an2.pdf, id=433, 885.70876pt x 230.93552pt>
 File: figures/anket/an2.pdf Graphic file (type pdf)
 <use figures/anket/an2.pdf>
-Package luatex.def Info: figures/anket/an2.pdf  used on input line 346.
+Package luatex.def Info: figures/anket/an2.pdf  used on input line 387.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an3.pdf, id=434, 885.70876pt x 230.93552pt>
+<figures/anket/an3.pdf, id=436, 885.70876pt x 230.93552pt>
 File: figures/anket/an3.pdf Graphic file (type pdf)
 <use figures/anket/an3.pdf>
-Package luatex.def Info: figures/anket/an3.pdf  used on input line 364.
+Package luatex.def Info: figures/anket/an3.pdf  used on input line 405.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/anket/an4.pdf, id=436, 885.70876pt x 230.93552pt>
+<figures/anket/an4.pdf, id=438, 885.70876pt x 230.93552pt>
 File: figures/anket/an4.pdf Graphic file (type pdf)
 <use figures/anket/an4.pdf>
-Package luatex.def Info: figures/anket/an4.pdf  used on input line 373.
+Package luatex.def Info: figures/anket/an4.pdf  used on input line 414.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [12<./figures/anket/an2.pdf>]
-<figures/anket/an7.pdf, id=516, 885.70876pt x 230.93552pt>
+<figures/anket/an7.pdf, id=520, 885.70876pt x 230.93552pt>
 File: figures/anket/an7.pdf Graphic file (type pdf)
 <use figures/anket/an7.pdf>
-Package luatex.def Info: figures/anket/an7.pdf  used on input line 386.
+Package luatex.def Info: figures/anket/an7.pdf  used on input line 427.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
  [13<./figures/anket/an3.pdf><./figures/anket/an4.pdf><./figures/anket/an7.pdf>]
-<figures/anket/an5.pdf, id=732, 885.70876pt x 230.93552pt>
+<figures/anket/an5.pdf, id=734, 885.70876pt x 230.93552pt>
 File: figures/anket/an5.pdf Graphic file (type pdf)
 <use figures/anket/an5.pdf>
-Package luatex.def Info: figures/anket/an5.pdf  used on input line 406.
+Package luatex.def Info: figures/anket/an5.pdf  used on input line 447.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an6.pdf, id=735, 885.70876pt x 230.93552pt>
+<figures/anket/an6.pdf, id=737, 885.70876pt x 230.93552pt>
 File: figures/anket/an6.pdf Graphic file (type pdf)
 <use figures/anket/an6.pdf>
-Package luatex.def Info: figures/anket/an6.pdf  used on input line 418.
+Package luatex.def Info: figures/anket/an6.pdf  used on input line 459.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
  [14<./figures/anket/an5.pdf><./figures/anket/an6.pdf>]
-<figures/anket/an8.pdf, id=883, 885.70876pt x 230.93552pt>
+<figures/anket/an8.pdf, id=885, 885.70876pt x 230.93552pt>
 File: figures/anket/an8.pdf Graphic file (type pdf)
 <use figures/anket/an8.pdf>
-Package luatex.def Info: figures/anket/an8.pdf  used on input line 434.
+Package luatex.def Info: figures/anket/an8.pdf  used on input line 475.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an9.pdf, id=886, 885.70876pt x 230.93552pt>
+<figures/anket/an9.pdf, id=888, 885.70876pt x 230.93552pt>
 File: figures/anket/an9.pdf Graphic file (type pdf)
 <use figures/anket/an9.pdf>
-Package luatex.def Info: figures/anket/an9.pdf  used on input line 448.
+Package luatex.def Info: figures/anket/an9.pdf  used on input line 489.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-(load cache: extra_lmmono10-regular.luc)
+ [15<./figures/anket/an8.pdf><./figures/anket/an9.pdf>](load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 471.
+(Font)              scaled to size 9.24713pt on input line 524.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 471.
- [15<./figures/anket/an8.pdf><./figures/anket/an9.pdf>] [16] (./main.aux)
+(Font)              scaled to size 9.24713pt on input line 524.
+ [16] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0579C11D804D47298907868BB4C1466B;1987.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21527 strings out of 477800
- 305790,953878 words of node,token memory allocated
- 38521 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 5 glue, 524 kern, 1 glyph, 14079 attribute, 1089 glue_spec, 713 attribute_list, 1 write, 149 user_defined, 2 pdf_action nodes
-   avail lists: 1:44,2:82098,3:395,4:206,5:43,6:57,7:4316,8:83,9:2020,10:44,11:2
- 41184 multiletter control sequences out of 65536+600000
- 99 fonts using 159303759 bytes
- 115i,8n,118p,1759b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 21520 strings out of 477800
+ 305789,953878 words of node,token memory allocated
+ 38607 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 5 glue, 524 kern, 1 glyph, 13990 attribute, 1145 glue_spec, 708 attribute_list, 1 write, 146 user_defined, 3 pdf_action nodes
+   avail lists: 1:43,2:80706,3:370,4:168,5:32,6:56,7:4336,8:84,9:2014,10:44,11:2
+ 41182 multiletter control sequences out of 65536+600000
+ 99 fonts using 159303847 bytes
+ 115i,8n,118p,1759b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on main.pdf (17 pages, 6838003 bytes).
+Output written on main.pdf (17 pages, 6764297 bytes).
 
-PDF statistics: 1118 PDF objects out of 1200 (max. 8388607)
- 779 compressed objects within 8 object streams
- 71 named destinations out of 1000 (max. 131072)
- 343 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1121 PDF objects out of 1200 (max. 8388607)
+ 785 compressed objects within 8 object streams
+ 72 named destinations out of 1000 (max. 131072)
+ 333 words of extra memory for PDF output out of 10000 (max. 100000000)
 
 
 
