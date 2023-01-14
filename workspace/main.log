@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2023.1.12)  13 JAN 2023 03:22
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2023.1.12)  14 JAN 2023 19:02
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -797,30 +797,30 @@ Package: lltjp-array 2019-07-18 Patch to array for LuaTeX-ja
 ) (./main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -876,20 +876,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 4.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 4.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 4.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 4.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 4.
-LaTeX Font Info:    Calculating math sizes for size <11.99997> on input line 4.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 5.
+LaTeX Font Info:    Calculating math sizes for size <11.99997> on input line 5.
 (load cache: extra_latinmodernmath-regular.luc)
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
@@ -932,17 +932,17 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             \__um_luatex_copy_fontdimens: 
 
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.70596pt on input line 4.
+(Font)              scaled to size 7.70596pt on input line 5.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.70596pt on input line 4.
+(Font)              scaled to size 7.70596pt on input line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 4.
+(Font)              `operators' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 4.
+(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 4.
+(Font)              `operators' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 4.
+(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 5.
 
 Package fontspec Info: latinmodern-math scale = 1.0001.
 
@@ -1009,13 +1009,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 4.
+(Font)              `symbols' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 4.
+(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 5.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 4.
+(Font)              `symbols' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 4.
+(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 5.
 
 Package fontspec Info: latinmodern-math scale = 0.9999.
 
@@ -1064,30 +1064,30 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 4.
+(Font)              `largesymbols' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 4.
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 5.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 4.
+(Font)              `largesymbols' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 4.
+(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 4.
+(Font)              scaled to size 10.00107pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 4.
+(Font)              scaled to size 7.00075pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 4.
+(Font)              scaled to size 5.00053pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 4.
+(Font)              scaled to size 9.99893pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 4.
+(Font)              scaled to size 6.99925pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 4.
+(Font)              scaled to size 4.99947pt on input line 5.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 4.
+(Font)              scaled to size 6.47299pt on input line 5.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 4.
-Package hyperref Info: Link coloring OFF on input line 4.
+(Font)              scaled to size 4.62357pt on input line 5.
+Package hyperref Info: Link coloring OFF on input line 5.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1097,258 +1097,291 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count330
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 
 \openout4 = main.out
 (load cache: extra_lmroman17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 15.97902pt on input line 10.
+(Font)              scaled to size 15.97902pt on input line 11.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 15.97902pt on input line 10.
+(Font)              scaled to size 15.97902pt on input line 11.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 14.
+(Font)              scaled to size 23.00687pt on input line 15.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 14.
+(Font)              scaled to size 23.00687pt on input line 15.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 9.24713pt on input line 58.
+(Font)              scaled to size 9.24713pt on input line 59.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 9.24713pt on input line 58.
+(Font)              scaled to size 9.24713pt on input line 59.
 (load cache: extra_lmroman12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 58.
+(Font)              scaled to size 13.31586pt on input line 59.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 58.
+(Font)              scaled to size 13.31586pt on input line 59.
 (load cache: extra_lmroman12-bold.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 13.31586pt on input line 58.
+(Font)              scaled to size 13.31586pt on input line 59.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 13.31586pt on input line 58.
+(Font)              scaled to size 13.31586pt on input line 59.
  (./main.toc [1])
 \tf@toc=\write5
 
 \openout5 = main.toc
- (./main.lof)
-\tf@lof=\write6
+ (./main.lot)
+\tf@lot=\write6
 
-\openout6 = main.lof
- [2]
-<./figures/undoukai2.jpg, id=245, 361.35pt x 252.945pt>
+\openout6 = main.lot
+ (./main.lof [2])
+\tf@lof=\write7
+
+\openout7 = main.lof
+ [3]
+<./figures/undoukai2.jpg, id=269, 361.35pt x 252.945pt>
 File: ./figures/undoukai2.jpg Graphic file (type jpg)
 <use ./figures/undoukai2.jpg>
-Package luatex.def Info: ./figures/undoukai2.jpg  used on input line 89.
+Package luatex.def Info: ./figures/undoukai2.jpg  used on input line 92.
 (luatex.def)             Requested size: 284.52756pt x 199.17207pt.
 (load cache: extra_lmroman9-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 91.
+(Font)              scaled to size 8.32242pt on input line 94.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 91.
+(Font)              scaled to size 8.32242pt on input line 94.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1<./figures/undoukai2.jpg>]
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 102.
+(Font)              scaled to size 11.09656pt on input line 105.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 102.
+(Font)              scaled to size 11.09656pt on input line 105.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 11.09656pt on input line 102.
+(Font)              scaled to size 11.09656pt on input line 105.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 11.09656pt on input line 102.
+(Font)              scaled to size 11.09656pt on input line 105.
 (load cache: extra_lmroman7-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 122.
+(Font)              scaled to size 6.47299pt on input line 125.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 122.
+(Font)              scaled to size 7.3977pt on input line 125.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 122.
-LaTeX Font Info:    Calculating math sizes for size <9.59998> on input line 122.
+(Font)              scaled to size 7.3977pt on input line 125.
+LaTeX Font Info:    Calculating math sizes for size <9.59998> on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 122.
+(Font)              scaled to size 8.00085pt on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.60056pt on input line 122.
+(Font)              scaled to size 5.60056pt on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.00043pt on input line 122.
+(Font)              scaled to size 4.00043pt on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 122.
+(Font)              scaled to size 7.99915pt on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.59935pt on input line 122.
+(Font)              scaled to size 5.59935pt on input line 125.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 3.99957pt on input line 122.
+(Font)              scaled to size 3.99957pt on input line 125.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 122.
+(Font)              scaled to size 5.17834pt on input line 125.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 3.69885pt on input line 122.
+(Font)              scaled to size 3.69885pt on input line 125.
 (load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 5.17834pt on input line 122.
+(Font)              scaled to size 5.17834pt on input line 125.
  [2]
-<figures/kigagami.pdf, id=272, 586.84505pt x 222.01424pt>
+<figures/kigagami.pdf, id=296, 586.84505pt x 222.01424pt>
 File: figures/kigagami.pdf Graphic file (type pdf)
 <use figures/kigagami.pdf>
-Package luatex.def Info: figures/kigagami.pdf  used on input line 196.
+Package luatex.def Info: figures/kigagami.pdf  used on input line 199.
 (luatex.def)             Requested size: 284.52756pt x 107.64627pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3] [4<./figures/kigagami.pdf>]
-<figures/mai.jpg, id=385, 361.35pt x 253.4268pt>
+<figures/mai.jpg, id=409, 361.35pt x 253.4268pt>
 File: figures/mai.jpg Graphic file (type jpg)
 <use figures/mai.jpg>
-Package luatex.def Info: figures/mai.jpg  used on input line 226.
+Package luatex.def Info: figures/mai.jpg  used on input line 229.
 (luatex.def)             Requested size: 284.52756pt x 199.55145pt.
  [5
 
 <./figures/mai.jpg>]
-<figures/hozonkaikazu.pdf, id=397, 582.66661pt x 393.72542pt>
+<figures/hozonkaikazu.pdf, id=421, 582.66661pt x 393.72542pt>
 File: figures/hozonkaikazu.pdf Graphic file (type pdf)
 <use figures/hozonkaikazu.pdf>
-Package luatex.def Info: figures/hozonkaikazu.pdf  used on input line 261.
+Package luatex.def Info: figures/hozonkaikazu.pdf  used on input line 264.
 (luatex.def)             Requested size: 284.52756pt x 192.26628pt.
  [6<./figures/hozonkaikazu.pdf>] [7]
-<figures/top.png, id=503, 759.21536pt x 344.61378pt>
+<figures/saitomap.pdf, id=528, 922.94812pt x 532.99124pt>
+File: figures/saitomap.pdf Graphic file (type pdf)
+<use figures/saitomap.pdf>
+Package luatex.def Info: figures/saitomap.pdf  used on input line 312.
+(luatex.def)             Requested size: 284.52756pt x 164.30656pt.
+ [8<./figures/saitomap.pdf>] [9
+
+] [10
+
+] [11
+
+]
+<figures/top.png, id=571, 759.21536pt x 344.61378pt>
 File: figures/top.png Graphic file (type png)
 <use figures/top.png>
-Package luatex.def Info: figures/top.png  used on input line 310.
+Package luatex.def Info: figures/top.png  used on input line 431.
 (luatex.def)             Requested size: 284.52756pt x 129.15097pt.
- [8<./figures/top.png>]
-<figures/kihontop.png, id=514, 792.68779pt x 356.02484pt>
+<figures/kihontop.png, id=574, 792.68779pt x 356.02484pt>
 File: figures/kihontop.png Graphic file (type png)
 <use figures/kihontop.png>
-Package luatex.def Info: figures/kihontop.png  used on input line 322.
+Package luatex.def Info: figures/kihontop.png  used on input line 443.
 (luatex.def)             Requested size: 284.52756pt x 127.79399pt.
-<figures/kihon2.png, id=517, 786.6019pt x 462.528pt>
+<figures/kihon2.png, id=577, 786.6019pt x 462.528pt>
 File: figures/kihon2.png Graphic file (type png)
 <use figures/kihon2.png>
-Package luatex.def Info: figures/kihon2.png  used on input line 333.
+Package luatex.def Info: figures/kihon2.png  used on input line 454.
 (luatex.def)             Requested size: 284.52756pt x 167.3004pt.
-<figures/dewatop.png, id=520, 772.90863pt x 464.04947pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/dewatop.png, id=580, 772.90863pt x 464.04947pt>
 File: figures/dewatop.png Graphic file (type png)
 <use figures/dewatop.png>
-Package luatex.def Info: figures/dewatop.png  used on input line 346.
+Package luatex.def Info: figures/dewatop.png  used on input line 467.
 (luatex.def)             Requested size: 284.52756pt x 170.82466pt.
+[12
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/dewa2.png, id=523, 798.77368pt x 397.10463pt>
+<./figures/top.png><./figures/kihontop.png>]
+<figures/dewa2.png, id=592, 798.77368pt x 397.10463pt>
 File: figures/dewa2.png Graphic file (type png)
 <use figures/dewa2.png>
-Package luatex.def Info: figures/dewa2.png  used on input line 357.
+Package luatex.def Info: figures/dewa2.png  used on input line 478.
 (luatex.def)             Requested size: 284.52756pt x 141.44878pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9<./figures/kihontop.png><./figures/kihon2.png>]
-<figures/dewa3.png, id=535, 788.88411pt x 465.57095pt>
+<figures/dewa3.png, id=595, 788.88411pt x 465.57095pt>
 File: figures/dewa3.png Graphic file (type png)
 <use figures/dewa3.png>
-Package luatex.def Info: figures/dewa3.png  used on input line 370.
+Package luatex.def Info: figures/dewa3.png  used on input line 491.
 (luatex.def)             Requested size: 284.52756pt x 167.91798pt.
- [10<./figures/dewatop.png><./figures/dewa2.png><./figures/dewa3.png>]
-<figures/anket/an1.pdf, id=549, 848.21758pt x 230.93552pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13<./figures/kihon2.png><./figures/dewatop.png>]
+<figures/anket/an1.pdf, id=608, 848.21758pt x 230.93552pt>
 File: figures/anket/an1.pdf Graphic file (type pdf)
 <use figures/anket/an1.pdf>
-Package luatex.def Info: figures/anket/an1.pdf  used on input line 390.
+Package luatex.def Info: figures/anket/an1.pdf  used on input line 511.
 (luatex.def)             Requested size: 284.52756pt x 77.46693pt.
- [11<./figures/anket/an1.pdf>]
-<figures/tate.png, id=640, 221.82875pt x 476.27937pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14<./figures/dewa2.png><./figures/dewa3.png>]
+<figures/tate.png, id=622, 221.82875pt x 476.27937pt>
 File: figures/tate.png Graphic file (type png)
 <use figures/tate.png>
-Package luatex.def Info: figures/tate.png  used on input line 421.
+Package luatex.def Info: figures/tate.png  used on input line 542.
 (luatex.def)             Requested size: 142.26378pt x 305.44275pt.
- [12<./figures/tate.png>]
-<figures/yoko.png, id=649, 449.17813pt x 559.08875pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15<./figures/anket/an1.pdf>]
+<figures/yoko.png, id=709, 449.17813pt x 559.08875pt>
 File: figures/yoko.png Graphic file (type png)
 <use figures/yoko.png>
-Package luatex.def Info: figures/yoko.png  used on input line 430.
+Package luatex.def Info: figures/yoko.png  used on input line 551.
 (luatex.def)             Requested size: 199.16928pt x 247.9022pt.
-<figures/kosinoiti.png, id=652, 742.775pt x 376.40625pt>
+<figures/kosinoiti.png, id=712, 742.775pt x 376.40625pt>
 File: figures/kosinoiti.png Graphic file (type png)
 <use figures/kosinoiti.png>
-Package luatex.def Info: figures/kosinoiti.png  used on input line 448.
+Package luatex.def Info: figures/kosinoiti.png  used on input line 569.
 (luatex.def)             Requested size: 284.52756pt x 144.19029pt.
- [13<./figures/yoko.png><./figures/kosinoiti.png>] [14]
-<figures/anket/an2.pdf, id=667, 885.70876pt x 230.93552pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16<./figures/tate.png>] [17<./figures/yoko.png><./figures/kosinoiti.png>]
+<figures/anket/an2.pdf, id=731, 885.70876pt x 230.93552pt>
 File: figures/anket/an2.pdf Graphic file (type pdf)
 <use figures/anket/an2.pdf>
-Package luatex.def Info: figures/anket/an2.pdf  used on input line 467.
+Package luatex.def Info: figures/anket/an2.pdf  used on input line 588.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an3.pdf, id=670, 885.70876pt x 230.93552pt>
+<figures/anket/an3.pdf, id=734, 885.70876pt x 230.93552pt>
 File: figures/anket/an3.pdf Graphic file (type pdf)
 <use figures/anket/an3.pdf>
-Package luatex.def Info: figures/anket/an3.pdf  used on input line 477.
+Package luatex.def Info: figures/anket/an3.pdf  used on input line 598.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an4.pdf, id=673, 885.70876pt x 230.93552pt>
+<figures/anket/an4.pdf, id=737, 885.70876pt x 230.93552pt>
 File: figures/anket/an4.pdf Graphic file (type pdf)
 <use figures/anket/an4.pdf>
-Package luatex.def Info: figures/anket/an4.pdf  used on input line 488.
+Package luatex.def Info: figures/anket/an4.pdf  used on input line 609.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an7.pdf, id=676, 885.70876pt x 230.93552pt>
+<figures/anket/an7.pdf, id=740, 885.70876pt x 230.93552pt>
 File: figures/anket/an7.pdf Graphic file (type pdf)
 <use figures/anket/an7.pdf>
-Package luatex.def Info: figures/anket/an7.pdf  used on input line 499.
+Package luatex.def Info: figures/anket/an7.pdf  used on input line 620.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/anket/an5.pdf, id=679, 885.70876pt x 230.93552pt>
+<figures/anket/an5.pdf, id=743, 885.70876pt x 230.93552pt>
 File: figures/anket/an5.pdf Graphic file (type pdf)
 <use figures/anket/an5.pdf>
-Package luatex.def Info: figures/anket/an5.pdf  used on input line 517.
+Package luatex.def Info: figures/anket/an5.pdf  used on input line 638.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-[15
+[18
 
 <./figures/anket/an2.pdf><./figures/anket/an3.pdf><./figures/anket/an4.pdf>]
-<figures/anket/an6.pdf, id=893, 885.70876pt x 230.93552pt>
+<figures/anket/an6.pdf, id=956, 885.70876pt x 230.93552pt>
 File: figures/anket/an6.pdf Graphic file (type pdf)
 <use figures/anket/an6.pdf>
-Package luatex.def Info: figures/anket/an6.pdf  used on input line 527.
+Package luatex.def Info: figures/anket/an6.pdf  used on input line 648.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
- [16<./figures/anket/an7.pdf><./figures/anket/an5.pdf><./figures/anket/an6.pdf>]
-<figures/anket/an8.pdf, id=1106, 885.70876pt x 230.93552pt>
+ [19<./figures/anket/an7.pdf><./figures/anket/an5.pdf><./figures/anket/an6.pdf>]
+<figures/anket/an8.pdf, id=1170, 885.70876pt x 230.93552pt>
 File: figures/anket/an8.pdf Graphic file (type pdf)
 <use figures/anket/an8.pdf>
-Package luatex.def Info: figures/anket/an8.pdf  used on input line 544.
+Package luatex.def Info: figures/anket/an8.pdf  used on input line 665.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
-<figures/anket/an9.pdf, id=1110, 885.70876pt x 230.93552pt>
+<figures/anket/an9.pdf, id=1174, 885.70876pt x 230.93552pt>
 File: figures/anket/an9.pdf Graphic file (type pdf)
 <use figures/anket/an9.pdf>
-Package luatex.def Info: figures/anket/an9.pdf  used on input line 560.
+Package luatex.def Info: figures/anket/an9.pdf  used on input line 681.
 (luatex.def)             Requested size: 284.52756pt x 74.1863pt.
- [17<./figures/anket/an8.pdf><./figures/anket/an9.pdf>] [18] [19](load cache: extra_lmmono10-regular.luc)
+ [20<./figures/anket/an8.pdf><./figures/anket/an9.pdf>] [21] [22](load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 609.
+(Font)              scaled to size 9.24713pt on input line 730.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 609.
- [20] (./main.aux)
+(Font)              scaled to size 9.24713pt on input line 730.
+ [23] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7C72FF9A3D79304959A031D8272911CC;3949.
+(rerunfilecheck)             Checksum: 570C8E654A25B32E402AFCEE4CCD314F;4217.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21618 strings out of 477800
- 244640,953878 words of node,token memory allocated
- 41516 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 5 glue, 524 kern, 1 glyph, 14588 attribute, 1446 glue_spec, 742 attribute_list, 1 write, 175 user_defined, 7 pdf_action nodes
-   avail lists: 1:37,2:69184,3:420,4:352,5:32,6:93,7:4218,8:83,9:1959,10:44,11:2
- 41228 multiletter control sequences out of 65536+600000
- 99 fonts using 159303759 bytes
- 115i,8n,118p,1759b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 21660 strings out of 477800
+ 244624,953878 words of node,token memory allocated
+ 44513 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 5 glue, 524 kern, 1 glyph, 15250 attribute, 1739 glue_spec, 780 attribute_list, 1 write, 208 user_defined, 7 pdf_action nodes
+   avail lists: 1:48,2:68502,3:422,4:333,5:32,6:93,7:4218,8:83,9:1959,10:44,11:2
+ 41244 multiletter control sequences out of 65536+600000
+ 99 fonts using 159303671 bytes
+ 115i,13n,118p,1759b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Bold.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on main.pdf (23 pages, 11046548 bytes).
+Output written on main.pdf (27 pages, 11079907 bytes).
 
-PDF statistics: 1350 PDF objects out of 1440 (max. 8388607)
- 969 compressed objects within 10 object streams
- 91 named destinations out of 1000 (max. 131072)
- 493 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1414 PDF objects out of 1440 (max. 8388607)
+ 1021 compressed objects within 11 object streams
+ 102 named destinations out of 1000 (max. 131072)
+ 519 words of extra memory for PDF output out of 10000 (max. 100000000)
 
 
 
